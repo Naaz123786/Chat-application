@@ -1,0 +1,9 @@
+.flex-1{
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
